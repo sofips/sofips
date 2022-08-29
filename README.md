@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at: **sofiperon98@gmail.com / sofia.peron@mi.unc.edu.ar**
 
-- 📄 Know about my experiences [shorturl.at/gNXY7](shorturl.at/gNXY7)
+- 📄 Know about my experiences shorturl.at/gNXY7 (shorturl.at/gNXY7)
 
 - ⚡ **Free culture and software supporter ⚡**
 
