@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1pxEmoH23WwTIUNcJSuuI60tX87kfEthZ/view?usp=sharing)
 
-- ⚡ **Free culture and software supporter ⚡**
+- ⚡ **Free culture and Free software supporter ⚡**
 
 
 <h3 align="left">Languages and Tools:</h3>
