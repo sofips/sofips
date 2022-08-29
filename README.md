@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to use machine learning techniques to solve optimization problems.**
 
-- 💬 Ask me about ** Scientific Programming, Numerical Methods, Python.**
+- 💬 Ask me about **Scientific Fortran Programming, Numerical Methods, Python.**
 
 - 📫 You can reach me at: **sofiperon98@gmail.com / sofia.peron@mi.unc.edu.ar**
 
