@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sofi</h1>
-<h3 align="center">A programming enthusiast and physics student from Argentina</h3>
+<h1 align="center"> Sofía Perón Santana</h1>
+<h3 align="center">PhD student in Quantum Physics</h3>
 
-- 🔭 I’m currently working on **my graduate thesis in quantum mechanics.**
 
 - 🌱 I’m currently learning **how to use machine learning techniques to solve optimization problems.**
 
-- 💬 Ask me about **Scientific Fortran Programming, Numerical Methods, Python.**
+- 💬 Ask me about **Fortran, Numerical Methods, Python, Scientific Programming**
 
 - 📫 You can reach me at: **sofiperon98@gmail.com / sofia.peron@mi.unc.edu.ar**
 
