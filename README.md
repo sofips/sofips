@@ -2,7 +2,7 @@
 <h3 align="center">PhD student in Quantum Physics</h3>
 
 
-- 🌱 I’m currently learning **how to use machine learning techniques to solve optimization problems.**
+- 🌱 I’m currently learning **how to use machine learning techniques to solve optimization problems in Quantum Mechanics.**
 
 - 💬 Ask me about **Fortran, Numerical Methods, Python, Reinforcement Learning, Neural Networks**
 
