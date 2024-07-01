@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at: **sofiperon98@gmail.com / sofia.peron@mi.unc.edu.ar**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1pxEmoH23WwTIUNcJSuuI60tX87kfEthZ/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1RZXMUDHfBKo_wCWCXiph4Ta8XxF9emgJ/view?usp=sharing)
 
 - ⚡**Free culture and Free software supporter**⚡
 
