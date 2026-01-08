@@ -2,9 +2,8 @@
 <h3 align="center">AI & Machine Learning | Quantum Physics PhD | Data scientist </h3>
 
 <p align="center">
-  <a href="https://YOUR-WEBSITE-HERE.com">Personal Website</a> •
-  <a href="https://www.linkedin.com/in/sofiperonsantana/">LinkedIn</a> •
-  <a href="https://github.com/sofips">GitHub</a>
+  <a href="https://sofips.dev.ar">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/sofiaperonsantana/">LinkedIn</a> •
 </p>
 
 ---
