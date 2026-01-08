@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://sofips.dev.ar">Personal Website</a> •
-  <a href="https://www.linkedin.com/in/sofiaperonsantana/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sofiaperonsantana/">LinkedIn</a> 
 </p>
 
 ---
