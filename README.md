@@ -1,18 +1,68 @@
-<h1 align="center"> Sofía Perón Santana</h1>
-<h3 align="center">PhD student in Quantum Physics</h3>
+<h1 align="center">Sofía Perón Santana</h1>
+<h3 align="center">AI & Machine Learning | Quantum Physics PhD | Data scientist </h3>
 
+<p align="center">
+  <a href="https://YOUR-WEBSITE-HERE.com">Personal Website</a> •
+  <a href="https://www.linkedin.com/in/sofiperonsantana/">LinkedIn</a> •
+  <a href="https://github.com/sofips">GitHub</a>
+</p>
 
-- 🌱 I’m currently learning **how to use machine learning techniques to solve optimization problems in Quantum Mechanics.**
+---
 
-- 💬 Ask me about **Fortran, Numerical Methods, Python, Reinforcement Learning, Neural Networks**
+### 👋 About me
 
-- 📫 You can reach me at: **sofiperon98@gmail.com / sofia.peron@mi.unc.edu.ar**
+I am a PhD student in Physics with a strong academic background in **machine learning, data science, and optimization**.
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1RZXMUDHfBKo_wCWCXiph4Ta8XxF9emgJ/view?usp=sharing)
+My research focuses on applying **reinforcement learning, genetic algorithms, and neural networks** to complex quantum systems, involving high-dimensional optimization, noisy environments, and rigorous model evaluation. This work has led to peer-reviewed publications and international conference presentations.
 
-- ⚡**Free culture and Free software supporter**⚡
+Alongside my doctoral research, I have **completed a Data Science Diploma**, where I worked on applied projects using real-world datasets, including **natural language processing with embeddings**, supervised learning on medical data, **clustering and representation learning**, and **offline recommendation systems** based on sequential models.
 
+I regularly run experiments on **remote university servers and shared computing infrastructure**, working with Linux environments, SSH, job schedulers, and long-running training jobs—experience that I see as directly transferable to cloud-based AI workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 Areas of interest
+- Machine Learning & Deep Learning  
+- Reinforcement Learning & Sequential Decision Making  
+- Natural Language Processing & Embeddings  
+- Optimization & Evolutionary Algorithms  
+- Quantum Computing & Quantum Machine Learning  
+
+---
+
+### 🛠️ Technologies
+
+**Programming**
+- Python (advanced), Fortran
+- Bash / Shell scripting
+- C (basic)
+
+**Machine Learning & Data**
+- PyTorch, TensorFlow
+- scikit-learn, Pandas, NumPy, SciPy
+- Jupyter, Matplotlib, Seaborn, Plotly
+
+**Quantum Computing**
+- Qiskit, QuTiP, QuLacs
+
+**Infrastructure & Tools**
+- Linux, Git, SSH
+- Remote servers & HPC environments
+- SLURM (job scheduling)
+
+**Cloud**
+- Amazon Web Services (Introductory training)
+
+---
+➡️ More details on my projects and publications are available on my  
+👉 **[personal website](https://sofips.dev.ar)**
+
+---
+
+### 📫 Contact
+- 📧 sofiperon98@gmail.com  
+- 📧 sofia.peron@mi.unc.edu.ar  
+
+---
+
+⚡ *Free culture and free software supporter* ⚡
